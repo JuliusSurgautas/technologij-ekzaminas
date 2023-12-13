@@ -87,11 +87,3 @@ padding-left: 800px;
  .navigation{
   background-color: rgb(211, 178, 128);
  }
-
- 
-.carousel{
-  $('.carousel').carousel({
-    interval: 2000
-  })
-}
- 
