@@ -65,8 +65,8 @@ padding-left: 50px;
     border-radius: 4px;
   }
   .pav{
-    width: 300px;
-    height: 300px;
+    /* width: 300px;
+    height: 300px; */
   }
   .pading{
     padding-left: 50px;
@@ -75,6 +75,21 @@ padding-left: 50px;
   text-decoration: solid;
 
  }
- h1{
-  color: aliceblue;
+ .h1{
+  color: rgb(250, 253, 255);
  }
+ #a1{
+color: rgb(255, 255, 255);
+ }
+
+
+h3{
+  padding-left: 500px;
+}
+
+#sidabras{
+  padding-left: 50px;
+}
+.son{
+  padding-left: 300px;
+}
